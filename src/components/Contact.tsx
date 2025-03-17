@@ -36,7 +36,7 @@ Additional Details:
 ${formData.details}
     `.trim();
 
-    window.location.href = `mailto:hello@sitesonpolaris.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:tj_childs26@yahoo.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
